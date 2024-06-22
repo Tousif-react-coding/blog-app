@@ -1,0 +1,31 @@
+html {
+    scroll-behavior: smooth;
+  }
+.searchbar{
+    background-color: black;
+    
+    height: 45px;
+    display: flex;
+    align-items: center;
+  }
+  .search input{
+    height: 44px;
+  
+    
+  }
+
+  .navbar{
+     background-color: rgb(126, 120, 120); 
+    height: 77px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .list{
+  
+    display: flex;
+    margin-right: 2px;
+    align-items: center;
+   
+   } 
